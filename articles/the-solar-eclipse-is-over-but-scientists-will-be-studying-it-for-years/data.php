@@ -15,7 +15,6 @@ $article = '<p>The scientists who studied the eclipse will continue to pore over
 
 ';
 
-$why_wrote = '<p>Antibiotics have saved countless lives since the 1940s. However, these drugs have been used so widely and for so long that the infectious organisms the antibiotics are designed to kill have adapted to them, making the drugs less effective. This article was written to highlight this growing danger, raise a warning voice, and showcase the efforts of those working on the frontlines of antibiotic resistance.</p>';
 $corrections = '<p>None</p>';
 $who_spoke_to = array(
     ''

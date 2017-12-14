@@ -742,17 +742,18 @@ header[role=banner] {
 }
 
 .featured-image {
-    margin-top: 1.6rem
+    margin-top: 1.6rem;
 }
 
 @media screen and (min-width:34rem) {
     .featured-image {
-        margin-bottom: 3.2rem
+        margin-bottom: 1.6rem
     }
 }
 
 .featured-image img {
-    margin-bottom: 0
+    max-width: 100%;
+    margin: 0 auto;
 }
 
 .featured-image figcaption {

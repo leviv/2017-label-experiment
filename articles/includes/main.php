@@ -21,10 +21,7 @@
             </div>
         </header>
 
-        <figure class="featured-image">
-            <img class="article-img article-img--featured" src="<?php echo $featured_img;?>" />
-            <figcaption><?php echo $featured_img_caption;?></figcaption>
-        </figure>
+        <hr>
 
         <? echo $article;?>
 

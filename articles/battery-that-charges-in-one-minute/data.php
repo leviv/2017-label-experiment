@@ -1,6 +1,6 @@
 <?php
 $identifier = 'trust';
-$title = 'Battery That Charges in One Minute Could Beat Tesla in the Race for Tomorrow\'s Clean Car';
+$title = 'Battery That Charges in One Minute Could Beat Tesla in the Race for Tomorrows Clean Car';
 $author = 'Jim Phipps';
 $pubdate = 'Feb. 23, 2017';
 

@@ -8,10 +8,10 @@ $(document).ready(function() {
     var closedElements = ['footnote', 'category', 'author'];
 
     // add in learn more category button
-    $('.category__type').after('<button class="category__button">Learn More</button>');
-    $('.category__content').append('<button class="category__second-close accordion__second-close">'+svgClose()+' Close Section</button>');
-    $('.author__content').before('<button id="authorBtn" class="author__button">Read Bio</button>');
-    $('.author__content').append('<button class="author__second-close accordion__second-close">'+svgClose()+' Close Section</button>');
+  //  $('.category__type').after('<button class="category__button">Learn More</button>');
+  //  $('.category__content').append('<button class="category__second-close accordion__second-close">'+svgClose()+' Close Section</button>');
+  //  $('.author__content').before('<button id="authorBtn" class="author__button">Read Bio</button>');
+  //  $('.author__content').append('<button class="author__second-close accordion__second-close">'+svgClose()+' Close Section</button>');
 
     for(var i = 0; i < closedElements.length; i++) {
         // hide closedElements on load

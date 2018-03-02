@@ -4,9 +4,9 @@
             <?php if($article_category !== "") { ?>
                 <div class="category">
                     <span class="category__type"><?php echo $article_category;?></span>
-                    <section class="category__content">
-                        <?php include('article-types.php');?>
-                    </section>
+                   <!-- <section class="category__content">
+                        <?php //include('article-types.php');?>
+                    </section> -->
                 </div>
                 <hr>
             <?php } ?>

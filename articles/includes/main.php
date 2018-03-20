@@ -27,7 +27,7 @@
 
         <?php
 
-        include('comments.php');
+        //include('comments.php');
 
         ?>
 

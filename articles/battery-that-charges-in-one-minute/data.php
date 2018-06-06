@@ -2,7 +2,7 @@
 $identifier = 'trust';
 $title = 'Battery That Charges in One Minute Could Beat Tesla in the Race for Tomorrows Clean Car';
 $author = 'Jim Phipps';
-$pubdate = 'May 3, 2018';
+$pubdate = 'June 5, 2018';
 
 $featured_img = '../../dist/img/soldier.jpg';
 $featured_img_caption = '';

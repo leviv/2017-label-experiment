@@ -2,7 +2,7 @@
 $identifier = 'trust';
 $title = 'Trump and Pentagon Search for Way to End America\'s Longest War';
 $author = 'Jim Phipps';
-$pubdate = 'May 3, 2018';
+$pubdate = 'June 5, 2018';
 
 $featured_img = '../../dist/img/soldier.jpg';
 $featured_img_caption = '';
